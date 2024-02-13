@@ -1,5 +1,5 @@
 Name:		texlive-exam-zh
-Version:	67505
+Version:	69803
 Release:	1
 Summary:	LaTeX template for Chinese exams
 Group:		Publishing
