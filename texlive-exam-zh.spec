@@ -1,9 +1,9 @@
 %global tl_name exam-zh
-%global tl_revision 76834
+%global tl_revision 79661
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	0.2.6
+Version:	0.3.0
 Release:	%{tl_revision}.1
 Summary:	LaTeX template for Chinese exams
 Group:		Publishing
